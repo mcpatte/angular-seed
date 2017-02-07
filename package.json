@@ -1,8 +1,8 @@
 {
-  "name": "angular-seed",
+  "name": "jumpyTime",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
+  "description": "A tutorial project for Angular and CreateJS",
   "repository": "https://github.com/angular/angular-seed",
   "license": "MIT",
   "devDependencies": {
